@@ -1,0 +1,47 @@
+.imgh{
+    width: 16rem;
+    height: 8rem;
+}
+
+.card{
+      
+   width:96vw;
+   background-color: #171717;
+   margin-left: 4em;
+   margin: 1rem;
+   border-radius: 12px;
+   display: flex;
+   position: relative;
+    
+}
+.col-md-4{
+margin-left: 2.2rem;
+}
+
+
+.state{
+   background-color:#0A0A0A;
+   border-radius: 45rem;
+   margin-left: 47vw;
+   height: 2em;
+   width:6em;
+   font-size-adjust: none ;
+   font-size: small;
+   bottom: 6em;
+   position: absolute;
+   right: 1.8em;
+   top: -0.4em;
+   text-align: center;
+}
+.city{
+    background-color:#0A0A0A;
+    border-radius: 45rem;
+    margin-left: 35vw;
+    height: 2em;
+   width:6em;
+    font-size: small;
+    position: absolute;
+    right: 8.0em;
+    top: -0.4em;
+    font-size-adjust: 0.78;
+ }
